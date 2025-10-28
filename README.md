@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/temesgen-cell/MY-LEETCODE-SOLUTION/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/temesgen-cell/MY-LEETCODE-SOLUTION/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/temesgen-cell/MY-LEETCODE-SOLUTION/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/temesgen-cell/MY-LEETCODE-SOLUTION/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Array
 |  |
 | ------- |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/temesgen-cell/MY-LEETCODE-SOLUTION/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/temesgen-cell/MY-LEETCODE-SOLUTION/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Hash Table
 |  |
